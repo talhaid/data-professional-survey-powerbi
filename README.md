@@ -1,5 +1,9 @@
 # 📊 Data Professional Survey Analysis Dashboard
 
+## 📸 Dashboard Preview
+
+![Dashboard Preview](data_professional_survey.png)
+
 ## 🎯 Objective
 To analyze survey data collected from data professionals, clean and transform the data using Power Query, and build an interactive dashboard in Power BI Desktop. The dashboard visualizes key insights about demographics, roles, salaries, programming languages, and job satisfaction.
 
